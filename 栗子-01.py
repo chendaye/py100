@@ -12,3 +12,6 @@ for num in range(1, 10000):
             sum += m
     if sum == num:
         print(num)
+
+
+
