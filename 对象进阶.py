@@ -30,7 +30,7 @@ class Test(object):
 
 
 def main():
-    if Test.is_static(): # 直接调用 不用实例化
+    if Test.is_static(): # 直接调用 不用实例化类
         cla = Test('chendaye', 18)
         print(cla.name)
         # 类方法获取类的实例

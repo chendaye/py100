@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63b8293c-be48-46f3-8c10-2d1f2b3ae155" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/对象.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/对象进阶.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/栗子-07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/py100.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/py100.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -194,7 +189,7 @@
       <workItem from="1571619452469" duration="16656000" />
       <workItem from="1571747958891" duration="1512000" />
       <workItem from="1571749585404" duration="571000" />
-      <workItem from="1571750170587" duration="4270000" />
+      <workItem from="1571750170587" duration="6044000" />
     </task>
     <servers />
   </component>
