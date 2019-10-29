@@ -18,7 +18,7 @@ def main():
         index += 1
         index %= 30  # index 不超过30
     for person in persons:
-        print('基' if person else '非', end='')
+        print('基' if person else '非', end ='\n')
 
 
 if __name__ == '__main__':
