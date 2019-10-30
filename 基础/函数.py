@@ -21,8 +21,8 @@ print(add(1,2,3,4,5))
 """
 文件模块
 """
-from module.module1 import long as long1
-from module.module2 import long as long2
+from 基础.module import long as long1
+from 基础.module.module2 import long as long2
 
 long1()
 long2()
