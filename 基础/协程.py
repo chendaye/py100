@@ -7,6 +7,7 @@ from multiprocessing import Process, Queue
 from random import randint
 
 
+
 def download():
     # 模拟下载任务需要花费10秒钟时间
     time.sleep(10)
